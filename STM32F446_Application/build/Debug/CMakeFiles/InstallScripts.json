@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Giorgi/Desktop/workspace_2.1.1/Bootloader/STM32F446_Application/build/Debug/cmake_install.cmake",
+		"C:/Users/Giorgi/Desktop/workspace_2.1.1/Bootloader/STM32F446_Application/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
